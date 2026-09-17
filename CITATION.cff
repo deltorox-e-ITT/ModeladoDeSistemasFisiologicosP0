@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 0: Sistema Pulmonar de Segundo Orden'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eduardo
+    family-names: Del Toro Nuñez
+    email: C23212399@tectijuana.edu.mx
+    affiliation: TecNM / ITT Tijuana
+repository-code: >-
+  https://github.com/deltorox-e-ITT/ModeladoDeSistemasFisiologicosP0
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema respiratorio
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-16'
